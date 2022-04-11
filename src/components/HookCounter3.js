@@ -5,7 +5,7 @@ const HookCounter3 = () => {
     firstName: "",
     lastName: "",
   });
-
+  
   return (
     <form>
       <input
