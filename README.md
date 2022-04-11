@@ -1,9 +1,9 @@
 # React Hooks by Codevolution youtube tutorials
 
 ## state and useState hook
- - State in Class Components
- - useState with primitive values
- - useState with Prev state 
- - useState with Objects
- - useState with Arrays
+ 1 State in Class Components
+ 2 useState with primitive values
+ 3 useState with Prev state 
+ 4 useState with Objects
+ 5 useState with Arrays
 
