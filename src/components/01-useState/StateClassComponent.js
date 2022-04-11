@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class ClassCounter extends Component {
+class StateClassComponent extends Component {
   constructor(props) {
     super(props);
 
@@ -24,4 +24,4 @@ class ClassCounter extends Component {
   }
 }
 
-export default ClassCounter;
+export default StateClassComponent;

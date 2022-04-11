@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const HookCounter = () => {
+const UseStatePrimitiveValue = () => {
     const [count, setCount] = useState(0)
 
     return (
@@ -10,4 +10,4 @@ const HookCounter = () => {
     )
 }
 
-export default HookCounter
+export default UseStatePrimitiveValue
