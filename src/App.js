@@ -1,10 +1,10 @@
 import './App.css';
-import CounterOne from './components/04-useReducer/CounterOne';
+import CounterTwo from './components/04-useReducer/CounterTwo';
 
 function App() {
   return (
     <div className="App">
-      <CounterOne />
+      <CounterTwo />
     </div>
   );
 }
