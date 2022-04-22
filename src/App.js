@@ -1,11 +1,11 @@
 import './App.css'
-import DataFetchingOne from './components/04-useReducer/DataFetchingOne';
+import DataFetchingTwo from './components/04-useReducer/DataFetchingTwo';
 
 function App() {
 
   return (
     <div className="App">
-      <DataFetchingOne />
+      <DataFetchingTwo />
     </div>
   );
 }
