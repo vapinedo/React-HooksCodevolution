@@ -25,3 +25,5 @@
 5. Fetching data with useReducer
 
 ## useCallback
+1. Optimize performance using useCallback with React.memo
+
