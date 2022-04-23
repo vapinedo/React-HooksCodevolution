@@ -1,11 +1,11 @@
 import './App.css'
-import Counter from './components/05-useCallback/Counter';
+import FocusInput from './components/06-useRef/FocusInput';
 
 function App() {
 
   return (
     <div className="App">
-      <Counter />
+      <FocusInput />
     </div>
   );
 }
