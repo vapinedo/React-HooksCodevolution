@@ -27,3 +27,7 @@
 ## useCallback
 1. Optimize performance using useCallback with React.memo
 
+## useMemo
+1. Optimize performance
+
+## useRef
